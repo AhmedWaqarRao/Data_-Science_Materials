@@ -1,1 +1,6 @@
-Pandas own built in capability that is built off of matplotlib, but it allows us to call data visualizations directly of a dataframe.
+Plotly is an interactve visualization library
+Cufflinks connects plotly with pandas
+pip install plotly
+pip install cufflinks
+plot.ly (plotly official website)
+https://github.com/santosjorge/cufflinks
